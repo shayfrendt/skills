@@ -1,6 +1,11 @@
 # skills
 
-A collection of the Claude Code skills, plugins, and commands I use for work!
+A collection of the Claude Code skills, plugins, commands, and hooks I use for work!
+
+## Contents
+
+- **[commands/](commands/)** - Slash commands for Claude Code
+- **[hooks/](hooks/)** - Safety hooks and guardrails
 
 ## Inspiration
 
